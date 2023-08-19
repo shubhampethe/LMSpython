@@ -1,0 +1,11 @@
+       c       
+       j       a       v       a       
+       d       a       t       a       b       a       s       e               m       a       n       e       g       m       e       n       t       
+       o       p       e       r       a       t       i       n       g               s       y       s       t       e       m       
+       c       +       +       
+       p       y       t       h       o       n       
+       C       o       m       p       u       t       e       r               N       e       t       w       o       r       k       
+       C       o       m       p       u       t       e       r               O       r       g       a       n       i       z       a       t       i       o       n               a       n       d               A       r       c       h       i       t       e       c       t       u       r       e       
+       T       h       e       o       r       y               o       f               c       o       m       p       u       t       a       i       o       n       
+       
+               l       e       a       r       n               p       r       o       g       r       a       m       m       i       n       g               l       a       n       g       u       a       g       e               i       n               j       a       v       a       
